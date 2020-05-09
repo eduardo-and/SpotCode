@@ -1,11 +1,11 @@
 import React, {Fragment} from 'react';
 
-const SearchScreen = {} =>{
-    return{
+const SearchScreen = () =>{
+    return(
         <Fragment>
-            <div> Home Screen</div>
+            <div> search Screen</div>
         </Fragment>
-    }
+    )
 }
 
 export default SearchScreen
